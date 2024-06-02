@@ -1,5 +1,6 @@
 -- ============== MySQL EDA Project ============ --
-# We will explore the dataset and rank company, industry 
+# After having cleaned the dataset (Layoffs)
+# We will now explore the dataset and rank company, industry 
 # and country based on the most layoffs (yearly). 
 
 -- 1. Exploring the total_laid_off column
